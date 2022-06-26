@@ -4,9 +4,9 @@
 
 **项目文件说明**
 
-imgs: 双目相机采集的棋盘格（每个格子边长1厘米）图片
-m.py: 直接`python m.py`执行就好，需要准备python3+opencv的环境
-melonL.jpg/melonR.jpg: 被摄物体的双目图像
+- imgs: 双目相机采集的棋盘格（每个格子边长1厘米）图片
+- m.py: 直接`python m.py`执行就好，需要准备python3+opencv的环境
+- melonL.jpg/melonR.jpg: 被摄物体的双目图像
 
 **使用演示**
 
